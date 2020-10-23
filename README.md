@@ -6,7 +6,7 @@ We provide the replication package for our study on taxonomy of real faults in D
 We provide the survey form in order to evaluate our proposed taxonomy. **DQN_bugs_survey.pdf** shows the survey form, its questions and other information regarding the survey. **participants_responses.csv** contains the responses of all users who participated in this survey.
 
 ### ManualLabelling
-You will find the details of manual labelling in **results.xlsx**.
+You will find the details of manual labelling in **results.xlsx** and **Results_R.xlsx**.
 
 ### Manuscript
 You can find the complete manuscript of this study in **paper.pdf**.
