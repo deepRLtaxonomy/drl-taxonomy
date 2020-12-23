@@ -7,6 +7,3 @@ We provide the survey form in order to evaluate our proposed taxonomy. **DQN_bug
 
 ### ManualLabelling
 You will find the details of manual labelling in **results.xlsx** and **Results_R.xlsx**.
-
-### Manuscript
-You can find the complete manuscript of this study in **paper.pdf**.
